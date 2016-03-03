@@ -1,0 +1,11 @@
+ <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Answer the following quesions related to your business"
+        android:layout_marginTop="23dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:id="@+id/textView" />
+
+
